@@ -1,0 +1,17 @@
+Sentence 1
+Gold Output : 2 102 1005 9889
+Predicted Output : 108 108 109 110
+BLEU SCORE : 0
+
+Sentence 2
+Gold Output : 10006 10007 10008 10009
+Predicted Output : 1009 1000 1001 1002
+BLEU SCORE : 0
+
+Sentence 3
+Gold Output : 11001 12001 14000 17002
+Predicted Output : 1091 1029 1020 1021
+BLEU SCORE : 0
+
+
+Average BLEU Score : 0.0

@@ -1,0 +1,502 @@
+Sentence 1
+Gold Output : 2428 2429 2430 2431
+Predicted Output : 2428 2429 2430 2431
+BLEU SCORE : 1.0
+
+Sentence 2
+Gold Output : 7344 7345 7346 7347
+Predicted Output : 7344 7345 7346 7347
+BLEU SCORE : 1.0
+
+Sentence 3
+Gold Output : 6143 6144 6145 6146
+Predicted Output : 6143 6144 6145 6146
+BLEU SCORE : 1.0
+
+Sentence 4
+Gold Output : 5872 5873 5874 5875
+Predicted Output : 5872 5873 5874 5875
+BLEU SCORE : 1.0
+
+Sentence 5
+Gold Output : 7038 7039 7040 7041
+Predicted Output : 7038 7039 7040 7041
+BLEU SCORE : 1.0
+
+Sentence 6
+Gold Output : 6802 6803 6804 6805
+Predicted Output : 6802 6803 6804 6805
+BLEU SCORE : 1.0
+
+Sentence 7
+Gold Output : 7380 7381 7382 7383
+Predicted Output : 7380 7381 7382 7383
+BLEU SCORE : 1.0
+
+Sentence 8
+Gold Output : 9215 9216 9217 9218
+Predicted Output : 2915 2916 2917 2918
+BLEU SCORE : 0
+
+Sentence 9
+Gold Output : 8391 8392 8393 8394
+Predicted Output : 8391 8392 8393 8394
+BLEU SCORE : 1.0
+
+Sentence 10
+Gold Output : 7974 7975 7976 7977
+Predicted Output : 7974 7975 7976 7977
+BLEU SCORE : 1.0
+
+Sentence 11
+Gold Output : 3000 3001 3002 3003
+Predicted Output : 3000 3001 3002 3003
+BLEU SCORE : 1.0
+
+Sentence 12
+Gold Output : 5452 5453 5454 5455
+Predicted Output : 5452 5453 5454 5455
+BLEU SCORE : 1.0
+
+Sentence 13
+Gold Output : 6915 6916 6917 6918
+Predicted Output : 6915 6916 6917 6918
+BLEU SCORE : 1.0
+
+Sentence 14
+Gold Output : 3614 3615 3616 3617
+Predicted Output : 3614 3615 3616 3617
+BLEU SCORE : 1.0
+
+Sentence 15
+Gold Output : 8089 8090 8091 8092
+Predicted Output : 8089 8090 8091 8092
+BLEU SCORE : 1.0
+
+Sentence 16
+Gold Output : 3688 3689 3690 3691
+Predicted Output : 3688 3689 3690 3691
+BLEU SCORE : 1.0
+
+Sentence 17
+Gold Output : 2689 2690 2691 2692
+Predicted Output : 2689 2690 2691 2692
+BLEU SCORE : 1.0
+
+Sentence 18
+Gold Output : 7345 7346 7347 7348
+Predicted Output : 7345 7346 7347 7348
+BLEU SCORE : 1.0
+
+Sentence 19
+Gold Output : 3915 3916 3917 3918
+Predicted Output : 3915 3916 3917 3918
+BLEU SCORE : 1.0
+
+Sentence 20
+Gold Output : 2177 2178 2179 2180
+Predicted Output : 2177 2178 2179 2180
+BLEU SCORE : 1.0
+
+Sentence 21
+Gold Output : 7763 7764 7765 7766
+Predicted Output : 7763 7764 7765 7766
+BLEU SCORE : 1.0
+
+Sentence 22
+Gold Output : 3253 3254 3255 3256
+Predicted Output : 3253 3254 3255 3256
+BLEU SCORE : 1.0
+
+Sentence 23
+Gold Output : 4219 4220 4221 4222
+Predicted Output : 4219 4220 4221 4222
+BLEU SCORE : 1.0
+
+Sentence 24
+Gold Output : 792 793 794 795
+Predicted Output : 792 793 794 795
+BLEU SCORE : 1.0
+
+Sentence 25
+Gold Output : 3940 3941 3942 3943
+Predicted Output : 3940 3941 3942 3943
+BLEU SCORE : 1.0
+
+Sentence 26
+Gold Output : 261 262 263 264
+Predicted Output : 261 262 263 264
+BLEU SCORE : 1.0
+
+Sentence 27
+Gold Output : 3053 3054 3055 3056
+Predicted Output : 3053 3054 3055 3056
+BLEU SCORE : 1.0
+
+Sentence 28
+Gold Output : 477 478 479 480
+Predicted Output : 477 478 479 480
+BLEU SCORE : 1.0
+
+Sentence 29
+Gold Output : 8185 8186 8187 8188
+Predicted Output : 8185 8186 8187 8188
+BLEU SCORE : 1.0
+
+Sentence 30
+Gold Output : 7537 7538 7539 7540
+Predicted Output : 7537 7538 7539 7540
+BLEU SCORE : 1.0
+
+Sentence 31
+Gold Output : 3983 3984 3985 3986
+Predicted Output : 3983 3984 3985 3986
+BLEU SCORE : 1.0
+
+Sentence 32
+Gold Output : 8866 8867 8868 8869
+Predicted Output : 8866 8867 8868 8869
+BLEU SCORE : 1.0
+
+Sentence 33
+Gold Output : 3306 3307 3308 3309
+Predicted Output : 3306 3307 3308 3309
+BLEU SCORE : 1.0
+
+Sentence 34
+Gold Output : 8005 8006 8007 8008
+Predicted Output : 8005 8006 8007 8008
+BLEU SCORE : 1.0
+
+Sentence 35
+Gold Output : 3487 3488 3489 3490
+Predicted Output : 3487 3488 3489 3490
+BLEU SCORE : 1.0
+
+Sentence 36
+Gold Output : 4495 4496 4497 4498
+Predicted Output : 4495 4496 4497 4498
+BLEU SCORE : 1.0
+
+Sentence 37
+Gold Output : 2586 2587 2588 2589
+Predicted Output : 2586 2587 2588 2589
+BLEU SCORE : 1.0
+
+Sentence 38
+Gold Output : 59 60 61 62
+Predicted Output : 59 60 61 62
+BLEU SCORE : 1.0
+
+Sentence 39
+Gold Output : 9260 9261 9262 9263
+Predicted Output : 2960 2961 2962 2963
+BLEU SCORE : 0
+
+Sentence 40
+Gold Output : 7471 7472 7473 7474
+Predicted Output : 7471 7472 7473 7474
+BLEU SCORE : 1.0
+
+Sentence 41
+Gold Output : 8748 8749 8750 8751
+Predicted Output : 7848 7849 7850 7851
+BLEU SCORE : 0
+
+Sentence 42
+Gold Output : 609 610 611 612
+Predicted Output : 609 610 611 612
+BLEU SCORE : 1.0
+
+Sentence 43
+Gold Output : 9759 9760 9761 9762
+Predicted Output : 7959 7960 7961 7962
+BLEU SCORE : 0
+
+Sentence 44
+Gold Output : 2512 2513 2514 2515
+Predicted Output : 2512 2513 2514 2515
+BLEU SCORE : 1.0
+
+Sentence 45
+Gold Output : 4286 4287 4288 4289
+Predicted Output : 4286 4287 4288 4289
+BLEU SCORE : 1.0
+
+Sentence 46
+Gold Output : 137 138 139 140
+Predicted Output : 137 138 139 140
+BLEU SCORE : 1.0
+
+Sentence 47
+Gold Output : 1689 1690 1691 1692
+Predicted Output : 1689 1690 1691 1692
+BLEU SCORE : 1.0
+
+Sentence 48
+Gold Output : 9641 9642 9643 9644
+Predicted Output : 9640 6941 6942 6943
+BLEU SCORE : 0
+
+Sentence 49
+Gold Output : 9470 9471 9472 9473
+Predicted Output : 9470 9471 9472 9473
+BLEU SCORE : 1.0
+
+Sentence 50
+Gold Output : 1255 1256 1257 1258
+Predicted Output : 1255 1256 1257 1258
+BLEU SCORE : 1.0
+
+Sentence 51
+Gold Output : 9895 9896 9897 9898
+Predicted Output : 9895 9896 9897 9898
+BLEU SCORE : 1.0
+
+Sentence 52
+Gold Output : 9535 9536 9537 9538
+Predicted Output : 9539 5936 5937 5938
+BLEU SCORE : 0
+
+Sentence 53
+Gold Output : 5572 5573 5574 5575
+Predicted Output : 5572 5573 5574 5575
+BLEU SCORE : 1.0
+
+Sentence 54
+Gold Output : 5447 5448 5449 5450
+Predicted Output : 5447 5448 5449 5450
+BLEU SCORE : 1.0
+
+Sentence 55
+Gold Output : 5542 5543 5544 5545
+Predicted Output : 5542 5543 5544 5545
+BLEU SCORE : 1.0
+
+Sentence 56
+Gold Output : 4525 4526 4527 4528
+Predicted Output : 4525 4526 4527 4528
+BLEU SCORE : 1.0
+
+Sentence 57
+Gold Output : 4853 4854 4855 4856
+Predicted Output : 4853 4854 4855 4856
+BLEU SCORE : 1.0
+
+Sentence 58
+Gold Output : 2583 2584 2585 2586
+Predicted Output : 2583 2584 2585 2586
+BLEU SCORE : 1.0
+
+Sentence 59
+Gold Output : 8769 8770 8771 8772
+Predicted Output : 7869 7870 7871 7872
+BLEU SCORE : 0
+
+Sentence 60
+Gold Output : 6600 6601 6602 6603
+Predicted Output : 6600 6601 6602 6603
+BLEU SCORE : 1.0
+
+Sentence 61
+Gold Output : 8779 8780 8781 8782
+Predicted Output : 7887 7888 7889 7890
+BLEU SCORE : 0
+
+Sentence 62
+Gold Output : 4613 4614 4615 4616
+Predicted Output : 4613 4614 4615 4616
+BLEU SCORE : 1.0
+
+Sentence 63
+Gold Output : 5909 5910 5911 5912
+Predicted Output : 5909 5910 5911 5912
+BLEU SCORE : 1.0
+
+Sentence 64
+Gold Output : 7893 7894 7895 7896
+Predicted Output : 7893 7894 7895 7896
+BLEU SCORE : 1.0
+
+Sentence 65
+Gold Output : 3997 3998 3999 4000
+Predicted Output : 3997 3998 3999 4000
+BLEU SCORE : 1.0
+
+Sentence 66
+Gold Output : 3245 3246 3247 3248
+Predicted Output : 3245 3246 3247 3248
+BLEU SCORE : 1.0
+
+Sentence 67
+Gold Output : 5437 5438 5439 5440
+Predicted Output : 5437 5438 5439 5440
+BLEU SCORE : 1.0
+
+Sentence 68
+Gold Output : 2882 2883 2884 2885
+Predicted Output : 2882 2883 2884 2885
+BLEU SCORE : 1.0
+
+Sentence 69
+Gold Output : 1875 1876 1877 1878
+Predicted Output : 1875 1876 1877 1878
+BLEU SCORE : 1.0
+
+Sentence 70
+Gold Output : 3876 3877 3878 3879
+Predicted Output : 3876 3877 3878 3879
+BLEU SCORE : 1.0
+
+Sentence 71
+Gold Output : 3832 3833 3834 3835
+Predicted Output : 3832 3833 3834 3835
+BLEU SCORE : 1.0
+
+Sentence 72
+Gold Output : 8287 8288 8289 8290
+Predicted Output : 2887 2888 2889 2890
+BLEU SCORE : 0
+
+Sentence 73
+Gold Output : 1454 1455 1456 1457
+Predicted Output : 1454 1455 1456 1457
+BLEU SCORE : 1.0
+
+Sentence 74
+Gold Output : 5154 5155 5156 5157
+Predicted Output : 5154 5155 5156 5157
+BLEU SCORE : 1.0
+
+Sentence 75
+Gold Output : 2244 2245 2246 2247
+Predicted Output : 2244 2245 2246 2247
+BLEU SCORE : 1.0
+
+Sentence 76
+Gold Output : 6283 6284 6285 6286
+Predicted Output : 6283 6284 6285 6286
+BLEU SCORE : 1.0
+
+Sentence 77
+Gold Output : 1428 1429 1430 1431
+Predicted Output : 1428 1429 1430 1431
+BLEU SCORE : 1.0
+
+Sentence 78
+Gold Output : 4026 4027 4028 4029
+Predicted Output : 4026 4027 4028 4029
+BLEU SCORE : 1.0
+
+Sentence 79
+Gold Output : 2339 2340 2341 2342
+Predicted Output : 2339 2340 2341 2342
+BLEU SCORE : 1.0
+
+Sentence 80
+Gold Output : 9836 9837 9838 9839
+Predicted Output : 9839 6983 6984 6985
+BLEU SCORE : 1.2882297539194154e-231
+
+Sentence 81
+Gold Output : 2146 2147 2148 2149
+Predicted Output : 2146 2147 2148 2149
+BLEU SCORE : 1.0
+
+Sentence 82
+Gold Output : 7206 7207 7208 7209
+Predicted Output : 7206 7207 7208 7209
+BLEU SCORE : 1.0
+
+Sentence 83
+Gold Output : 1674 1675 1676 1677
+Predicted Output : 1674 1675 1676 1677
+BLEU SCORE : 1.0
+
+Sentence 84
+Gold Output : 5794 5795 5796 5797
+Predicted Output : 5794 5795 5796 5797
+BLEU SCORE : 1.0
+
+Sentence 85
+Gold Output : 7647 7648 7649 7650
+Predicted Output : 7647 7648 7649 7650
+BLEU SCORE : 1.0
+
+Sentence 86
+Gold Output : 8331 8332 8333 8334
+Predicted Output : 8331 3832 3833 3834
+BLEU SCORE : 1.2882297539194154e-231
+
+Sentence 87
+Gold Output : 5293 5294 5295 5296
+Predicted Output : 5293 5294 5295 5296
+BLEU SCORE : 1.0
+
+Sentence 88
+Gold Output : 5764 5765 5766 5767
+Predicted Output : 5764 5765 5766 5767
+BLEU SCORE : 1.0
+
+Sentence 89
+Gold Output : 6008 6009 6010 6011
+Predicted Output : 6008 6009 6010 6011
+BLEU SCORE : 1.0
+
+Sentence 90
+Gold Output : 4512 4513 4514 4515
+Predicted Output : 4512 4513 4514 4515
+BLEU SCORE : 1.0
+
+Sentence 91
+Gold Output : 4546 4547 4548 4549
+Predicted Output : 4546 4547 4548 4549
+BLEU SCORE : 1.0
+
+Sentence 92
+Gold Output : 7265 7266 7267 7268
+Predicted Output : 7265 7266 7267 7268
+BLEU SCORE : 1.0
+
+Sentence 93
+Gold Output : 5525 5526 5527 5528
+Predicted Output : 5525 5526 5527 5528
+BLEU SCORE : 1.0
+
+Sentence 94
+Gold Output : 8959 8960 8961 8962
+Predicted Output : 8959 8960 8961 8962
+BLEU SCORE : 1.0
+
+Sentence 95
+Gold Output : 9149 9150 9151 9152
+Predicted Output : 9149 9150 9151 9152
+BLEU SCORE : 1.0
+
+Sentence 96
+Gold Output : 5046 5047 5048 5049
+Predicted Output : 5046 5047 5048 5049
+BLEU SCORE : 1.0
+
+Sentence 97
+Gold Output : 4197 4198 4199 4200
+Predicted Output : 4197 4198 4199 4200
+BLEU SCORE : 1.0
+
+Sentence 98
+Gold Output : 9007 9008 9009 9010
+Predicted Output : 9007 9008 9009 9010
+BLEU SCORE : 1.0
+
+Sentence 99
+Gold Output : 9732 9733 9734 9735
+Predicted Output : 9732 9733 9734 9735
+BLEU SCORE : 1.0
+
+Sentence 100
+Gold Output : 2485 2486 2487 2488
+Predicted Output : 2485 2486 2487 2488
+BLEU SCORE : 1.0
+
+
+Average BLEU Score : 0.89
